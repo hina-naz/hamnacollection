@@ -1,0 +1,127 @@
+.navbar-light {
+width:100%;
+background-color:#BDC1A1;
+padding:0%;
+}
+.navbar-brand{
+padding:0%;
+}
+.navbar-brand h4{
+padding:5%;
+}
+a:hover{
+color:#BDC1A1;
+}
+h5:hover{
+color:#BDC1A1;
+}
+h5,a:hover{
+color:#BDC1A1;
+}
+.navbar-brand h4{
+color:#FFFFFF;
+}
+.nav-link h5{
+color:#FFFFFF;
+}
+h5, i{
+padding-right:10px;}
+.carousel{
+border:1px solid gray;
+}
+#index1{
+width: 24rem;
+
+}
+
+#index1:hover{
+transform: scale(1.1);
+}
+.card img{
+height: 20rem;
+}
+.card .btn{
+background-color:#BDC1A1; 
+color:#FFFFFF;
+}
+.btn{
+background-color:#BDC1A1; 
+color:#FFFFFF;
+}
+.btn:hover{
+background-color:#9BD3AE;
+}
+#footer{
+ border:2px solid;
+ height:auto; 
+ margin-top:3%;
+ background-color:#262626;
+ margin-right:0%;
+ margin-left:0%;
+}
+#footer h5{
+padding-top:10%;
+padding-right:20%;
+padding-left:10%;
+color:#F1FFFF;
+width:100%;
+margin-right:0%;
+}
+#footer .col-md-3  p{
+padding-left:11%;
+margin:1%;
+color:#959595;
+}
+#cp{
+padding:1%;
+background-color:#333333;
+margin-top:10%;
+}
+#cp p{
+margin:1%;
+color:#959595;
+display:inline;
+}
+#ship {
+background-color:#F8F8F8;
+border-radius:10px;
+margin-left:3%;
+margin-right:3%;
+margin-top:3%;
+ }
+h4{
+padding:8%;
+}
+.col-md-5 img{
+height:60%; 
+width:70%;
+border:1px solid;
+margin-left:10%;
+}
+.logo{
+height:235px;
+width:250px;
+border-bottom:2px solid #BDC1A1;
+
+}
+.logo img{
+height:200px;
+width:200px;
+margin-left:9%;
+margin-right:9%;
+margin-top:2%;
+}
+.mb-0, a{
+color:gray;
+}
+ul, li{
+list-style:none;
+
+}
+ul, li, a{
+color:gray;
+font-weight:bold;
+}
+.row{
+margin-right:0px;
+}
